@@ -40,7 +40,12 @@ From a young age, I knew what I wanted to do. Today, I'm overwhelmed by how much
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)  
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)  
 
-What I don’t know yet is just a matter of time and determination to learn.
+
+---
+
+> **_What I don’t know yet is just a matter of time and determination to learn._**
+
+---
 
 ## Contact  
 

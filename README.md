@@ -49,4 +49,4 @@ From a young age, I knew what I wanted to do. Today, I'm overwhelmed by how much
 
 ## Contact  
 
-[![Email](https://img.shields.io/badge/javiergc100@hotmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:javiergc100@hotmail.com)
+[![Email](https://img.shields.io/badge/javiergc100@protonmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:javiergc100@protonmail.com)

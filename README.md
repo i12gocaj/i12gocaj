@@ -13,7 +13,12 @@ From a young age, I knew what I wanted to do. Today, I'm overwhelmed by how much
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)  
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)  
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+
+### Ciberseguridad
+[![CTF](https://img.shields.io/badge/CTF-Challenges-red?style=for-the-badge&logo=flag&logoColor=white&labelColor=101010)]()  
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Black?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=101010)]()  
+[![Kali Linux](https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=101010)]()
 
 ### Web Development
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)  

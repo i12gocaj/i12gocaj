@@ -1,7 +1,11 @@
 # Hi, I'm Javier ;)
 ### Computer Engineer 👨‍💻  
 
-“As a kid, I used to break things by accident — now I do it on purpose. You can find more about me on my GitHub portfolio.”
+---
+
+> **_As a kid, I used to break things by accident — now I do it on purpose. You can find more about me on my GitHub portfolio._**
+
+---
 
 ## Technologies
 
@@ -44,13 +48,6 @@
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)  
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)  
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)  
-
-
----
-
-> **_What I don’t know yet is just a matter of time and determination to learn._**
-
----
 
 ## Contact  
 

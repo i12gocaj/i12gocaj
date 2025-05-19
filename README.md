@@ -1,7 +1,7 @@
 # Hi, I'm Javier ;)
 ### Computer Engineer 👨‍💻  
 
-From a young age, I knew what I wanted to do. Today, I'm overwhelmed by how much there is to learn.
+“As a kid, I used to break things by accident — now I do it on purpose. You can find more about me on my GitHub portfolio.”
 
 ## Technologies
 

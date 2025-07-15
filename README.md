@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Javier** ;)  
-### 🛡️ Red-Team Enthusiast · Computer Engineer · CTF Tinkerer (@ Caliphal Hounds)
+### 🛡️ Red-Team Enthusiast · Computer Engineer · CTF Tinkerer
 
 > _As a kid, I used to break things by accident — now I do it on purpose._  
 > _You can find more about me on my GitHub portfolio._
@@ -56,7 +56,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=101010)]()  
 [![CTFtime](https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=ctftime&logoColor=white&labelColor=101010)]()  
 
-> Currently competing with **Caliphal Hounds** — always hungry for new challenges.
+> Ex-Member of **Caliphal Hounds**
 
 ---
 
@@ -79,7 +79,3 @@
 ### ⚠️ Disclaimer  
 All code, exploits, and write-ups are published **strictly for educational and research purposes**.  
 Use them responsibly and always obtain proper authorization before testing any system.
-
----
-
-<sub>Badges rendered with [Shields.io](https://shields.io). Icons belong to their respective owners.</sub>

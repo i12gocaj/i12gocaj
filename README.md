@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Javier** ;)  
 ### 🛡️ Red-Team Enthusiast · Computer Engineer · CTF Tinkerer
 
-> _As a kid, I used to break things by accident — now I do it on purpose._  
+> _As a kid, I used to break things by accident, now I do it on purpose._  
 > _You can find more about me on my GitHub portfolio._
 
 ---

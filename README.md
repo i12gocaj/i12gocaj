@@ -37,51 +37,39 @@ Computer Engineer focused on Cyber Threat Intelligence, malware analysis, digita
 [![Metasploit](https://img.shields.io/badge/Metasploit-2F4A9C?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=101010)](https://www.metasploit.com/)
 [![Nmap](https://img.shields.io/badge/Nmap-447265?style=for-the-badge&logo=nmap&logoColor=white&labelColor=101010)](https://nmap.org/)
 [![Nessus](https://img.shields.io/badge/Nessus-00A4B7?style=for-the-badge&logo=tenable&logoColor=white&labelColor=101010)](https://www.tenable.com/products/nessus)
-[![BloodHound](https://img.shields.io/badge/BloodHound-E2291B?style=for-the-badge&logoColor=white&labelColor=101010)](https://github.com/SpecterOps/BloodHound)
+[![BloodHound](https://img.shields.io/badge/BloodHound-E2291B?style=for-the-badge&labelColor=101010&color=E2291B)](https://github.com/SpecterOps/BloodHound)
 [![Impacket](https://img.shields.io/badge/Impacket-00A3E0?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/fortra/impacket)
-[![NetExec](https://img.shields.io/badge/NetExec-363636?style=for-the-badge&logo=windows-terminal&logoColor=white&labelColor=101010)](https://github.com/Pennyw0rth/NetExec)
-[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white&labelColor=101010)](https://hashcat.net/hashcat/)
+[![NetExec](https://img.shields.io/badge/NetExec-363636?style=for-the-badge&labelColor=101010)](https://github.com/Pennyw0rth/NetExec)
+[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&labelColor=101010)](https://hashcat.net/hashcat/)
 [![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://sqlmap.org/)
 [![pwntools](https://img.shields.io/badge/pwntools-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/Gallopsled/pwntools)
 
 ### 🧪 Reverse Engineering & Malware Analysis
-[![Ghidra](https://img.shields.io/badge/Ghidra-B0292E?style=for-the-badge&logoColor=white&labelColor=101010)](https://ghidra-sre.org/)
-[![IDA Free](https://img.shields.io/badge/IDA_Free-1E3A8A?style=for-the-badge&logoColor=white&labelColor=101010)](https://hex-rays.com/ida-free)
-[![x64dbg](https://img.shields.io/badge/x64dbg-2E2E2E?style=for-the-badge&logoColor=white&labelColor=101010)](https://x64dbg.com/)
-[![YARA](https://img.shields.io/badge/YARA-005571?style=for-the-badge&logoColor=white&labelColor=101010)](https://virustotal.github.io/yara/)
+[![Ghidra](https://img.shields.io/badge/Ghidra-B0292E?style=for-the-badge&labelColor=101010)](https://ghidra-sre.org/)
+[![IDA Free](https://img.shields.io/badge/IDA_Free-1E3A8A?style=for-the-badge&labelColor=101010)](https://hex-rays.com/ida-free)
+[![x64dbg](https://img.shields.io/badge/x64dbg-2E2E2E?style=for-the-badge&labelColor=101010)](https://x64dbg.com/)
+[![YARA](https://img.shields.io/badge/YARA-005571?style=for-the-badge&labelColor=101010)](https://virustotal.github.io/yara/)
 [![Android APK](https://img.shields.io/badge/Android_APK_Analysis-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://developer.android.com/)
 
 ### 🔍 Digital Forensics & DFIR
-[![FTK Imager](https://img.shields.io/badge/FTK_Imager-002B5B?style=for-the-badge&logoColor=white&labelColor=101010)](https://www.exterro.com/digital-forensics-software/ftk-imager)
-[![Autopsy](https://img.shields.io/badge/Autopsy-1F4E79?style=for-the-badge&logoColor=white&labelColor=101010)](https://www.autopsy.com/)
-[![Volatility](https://img.shields.io/badge/Volatility-8B0000?style=for-the-badge&logoColor=white&labelColor=101010)](https://www.volatilityfoundation.org/)
+[![FTK Imager](https://img.shields.io/badge/FTK_Imager-002B5B?style=for-the-badge&labelColor=101010)](https://www.exterro.com/digital-forensics-software/ftk-imager)
+[![Autopsy](https://img.shields.io/badge/Autopsy-1F4E79?style=for-the-badge&labelColor=101010)](https://www.autopsy.com/)
+[![Volatility](https://img.shields.io/badge/Volatility-8B0000?style=for-the-badge&labelColor=101010)](https://www.volatilityfoundation.org/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=101010)](https://www.wireshark.org/)
-[![Nirsoft](https://img.shields.io/badge/Nirsoft-4A4A4A?style=for-the-badge&logoColor=white&labelColor=101010)](https://www.nirsoft.net/)
-[![Proxmark3](https://img.shields.io/badge/Proxmark3-FF4500?style=for-the-badge&logoColor=white&labelColor=101010)](https://github.com/RfidResearchGroup/proxmark3)
+[![Nirsoft](https://img.shields.io/badge/Nirsoft-4A4A4A?style=for-the-badge&labelColor=101010)](https://www.nirsoft.net/)
+[![Proxmark3](https://img.shields.io/badge/Proxmark3-FF4500?style=for-the-badge&labelColor=101010)](https://github.com/RfidResearchGroup/proxmark3)
 
 ### 🌐 Threat Intelligence & OSINT
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-BB1F23?style=for-the-badge&logoColor=white&labelColor=101010)](https://attack.mitre.org/)
-[![Maltego](https://img.shields.io/badge/Maltego-1B1B1B?style=for-the-badge&logoColor=white&labelColor=101010)](https://www.maltego.com/)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-BB1F23?style=for-the-badge&labelColor=101010)](https://attack.mitre.org/)
+[![Maltego](https://img.shields.io/badge/Maltego-1B1B1B?style=for-the-badge&labelColor=101010)](https://www.maltego.com/)
 [![Shodan](https://img.shields.io/badge/Shodan-C00?style=for-the-badge&logo=shodan&logoColor=white&labelColor=101010)](https://www.shodan.io/)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logoColor=white&labelColor=101010)](https://www.virustotal.com/)
-
-### 💻 Programming & Scripting
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)](https://en.cppreference.com/w/c)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)](https://isocpp.org/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)](https://www.rust-lang.org/)
-
-### 🗄️ Databases
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://www.mongodb.com/)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010)](https://mariadb.org/)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&labelColor=101010)](https://www.virustotal.com/)
 
 ### 🤖 AI & Machine Learning
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)](https://pytorch.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logoColor=white&labelColor=101010)](https://xgboost.ai/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&labelColor=101010)](https://xgboost.ai/)
 
 ### ☁️ Infrastructure & Automation
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com/)
@@ -103,8 +91,11 @@ Computer Engineer focused on Cyber Threat Intelligence, malware analysis, digita
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i12gocaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i12gocaj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i12gocaj&theme=dark&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=i12gocaj&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---

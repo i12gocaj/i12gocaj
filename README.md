@@ -21,7 +21,6 @@ Computer Engineer focused on Cyber Threat Intelligence, malware analysis, digita
 | Project | What it is | Stack |
 |---|---|---|
 | 🎙️ [**Instagram Notes Audio Leakage**](https://github.com/i12gocaj/Instagram-Notes-Audio-Leakage-via-URL-Extraction-Fixed) | Privacy bypass in Instagram Web. **$1,000 Meta Bug Bounty.** Validated and patched. | Web Security · Responsible Disclosure |
-| 🎧 [**IG Audio Grabber Local**](https://github.com/i12gocaj/ig-audio-downloader-extension) | Local Chrome extension to save Instagram Direct voice notes as original audio or MP3. No backend, no upload. | Chrome Extension · JavaScript · Browser APIs |
 | 🔐 [**Instagram Password Change Bypass**](https://github.com/i12gocaj/instagram-password-bypass) | Account-takeover via password change without knowing the current one. Reported to Meta. | Web Security · Bug Bounty |
 | 📧 [**SecEmail**](https://github.com/i12gocaj/SecEmail) | SPF/DKIM/DMARC/ARC auditor and authorised SMTP/phishing simulator for Red Team engagements. ~5k LOC, 167 tests. | Python · Email Security · Red Team |
 | 🏋️ [**Club Gym Sierra Time Bypass**](https://github.com/i12gocaj/club-gym-sierra-time-bypass) | Logical vulnerability in mobile app, patched in v4.4.19. | Mobile Security · Logical Vulns |

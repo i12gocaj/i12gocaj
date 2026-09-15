@@ -108,10 +108,6 @@ Computer Engineer focused on Cyber Threat Intelligence, malware analysis, digita
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=i12gocaj&theme=dark&hide_border=true" alt="Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=i12gocaj&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## ⚠️ Disclaimer

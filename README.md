@@ -14,6 +14,10 @@ Computer Engineer focused on Cyber Threat Intelligence, malware analysis, digita
 
 📌 **Open to** Junior roles in Threat Intelligence, DFIR, Red Team, SOC and Penetration Testing.
 
+## 🎓 Current Training
+
+**VIII Diploma of Expert in Reverse Engineering and Malware Intelligence** — University of Málaga, NICS Lab, and Google-VirusTotal (in collaboration with Google). Scheduled for **21 Sep–14 Dec 2026** · 18 ECTS · 180 in-person hours. [Official programme](https://www.nics.uma.es/viii-edicion-diploma-experto-en-ingenieria-inversa-e-inteligencia-malware/).
+
 ---
 
 ## 🚀 Featured Work
@@ -23,6 +27,7 @@ Computer Engineer focused on Cyber Threat Intelligence, malware analysis, digita
 | 🎙️ [**Instagram Notes Audio Leakage**](https://github.com/i12gocaj/Instagram-Notes-Audio-Leakage-via-URL-Extraction-Fixed) | Privacy bypass in Instagram Web. **$1,000 Meta Bug Bounty.** Validated and patched. | Web Security · Responsible Disclosure |
 | 🔐 [**Instagram Password Change Bypass**](https://github.com/i12gocaj/instagram-password-bypass) | Account-takeover via password change without knowing the current one. Reported to Meta. | Web Security · Bug Bounty |
 | 📧 [**SecEmail**](https://github.com/i12gocaj/SecEmail) | SPF/DKIM/DMARC/ARC auditor and authorised SMTP/phishing simulator for Red Team engagements. ~5k LOC, 167 tests. | Python · Email Security · Red Team |
+| 🧭 [**Atlas — Copilot Auditor**](https://github.com/i12gocaj/Atlas) | Local-first AI governance prototype auditing copilot telemetry for cost, adoption, sensitive data and policy compliance; presented at the 2026 Atmira × OpenAI × Big Data Hackathon. | Python · AI Governance · Local LLM |
 | 🏋️ [**Club Gym Sierra Time Bypass**](https://github.com/i12gocaj/club-gym-sierra-time-bypass) | Logical vulnerability in mobile app, patched in v4.4.19. | Mobile Security · Logical Vulns |
 | 📈 [**TFG: Directional Prediction of Financial Assets with ML**](https://github.com/i12gocaj/tfg-prediccion-direccional-activos-financieros) | BSc Thesis. ML/DL pipeline + GDELT news-sentiment for BTC/TSLA/NVDA. **Graded 10/10.** | Python · TensorFlow · scikit-learn · XGBoost |
 
@@ -85,6 +90,15 @@ Computer Engineer focused on Cyber Threat Intelligence, malware analysis, digita
 [![CTFtime](https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logoColor=white&labelColor=101010)](https://ctftime.org/)
 
 🐺 **Caliphal Hounds (2024)** - team **ranked #2 in Spain** on CTFTime that year.
+
+---
+
+## 🏅 Awards & Recognition
+
+- **NASA Vulnerability Disclosure Program Recognition** (Jun 2026) — Letter of Recognition from NASA's Office of the CIO (SAISO) for responsible vulnerability disclosure.
+- **Best Device Award**, 4th Biotechnological Hackathon (Apr 2026) — intelligent counting device for post-surgery surgical material.
+- **1st Prize**, Hackademics Forum III CTF (Apr 2025).
+- **Week 4 Winner**, “El Bug de la Semana” (INCIBE × IMMUNE, 2025).
 
 ---
 

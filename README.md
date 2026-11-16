@@ -1,115 +1,40 @@
-# 👋 Hi, I'm Javier
+## Javier González Casares
 
-### Cybersecurity Engineer · Threat Intelligence · DFIR · Red Team
+**Cyber threat intelligence and malware analysis** · Córdoba, Spain
 
-**OSCP Candidate (Dec 2026)** · **$1,000 Meta Bug Bounty**
+Computer Engineer with an MSc in Offensive Security. I analyse malware, trace fraudulent infrastructure and document findings to evidentiary standards. Since 2025 I have collaborated with the **Spanish National Police** on cybercrime investigations. Previous internships in DFIR and CTI (AllPentesting), OT security (Indra Group) and defence-sector cybersecurity (Navantia).
 
-> _As a kid, I used to break things by accident. Now I do it on purpose._
+Looking for junior roles in **threat intelligence and malware analysis**.
 
-Computer Engineer focused on Cyber Threat Intelligence, malware analysis, digital forensics (DFIR) and offensive security. Currently finishing my MSc in Offensive Security at Campus Internacional de Ciberseguridad while preparing for the OSCP. Past internships at AllPentesting (DFIR & CTI), Indra Group (OT Security) and Navantia (defence-sector cybersecurity). Active collaborator with the Spanish National Police on cybercrime investigations.
+[Portfolio](https://i12gocaj.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/javier-gonzalez-casares/) · [Email](mailto:javiergc100@protonmail.com)
 
-🌐 **Portfolio:** [i12gocaj.github.io/portfolio](https://i12gocaj.github.io/portfolio)  
-💼 **LinkedIn:** [linkedin.com/in/javier-gonzalez-casares](https://www.linkedin.com/in/javier-gonzalez-casares/)  
-📧 **Email:** [javiergc100@protonmail.com](mailto:javiergc100@protonmail.com)
+### Featured work
 
-📌 **Open to** Junior roles in Threat Intelligence, DFIR, Red Team, SOC and Penetration Testing.
+| Project | What it is |
+|---|---|
+| [Instagram Notes audio leakage](https://github.com/i12gocaj/Instagram-Notes-Audio-Leakage-via-URL-Extraction-Fixed) | Privacy bypass in Instagram Web that exposed the original audio of videos through direct URLs. **$1,000 Meta bug bounty**, validated and patched. |
+| [Instagram password change bypass](https://github.com/i12gocaj/instagram-password-bypass) | Password change without the current password in an active session. Reported to Meta and fixed. |
+| [SecEmail](https://github.com/i12gocaj/SecEmail) | SPF, DKIM, DMARC and ARC auditor with an authorised SMTP simulator for Red Team engagements. Python, ~5k LOC, 167 tests. |
+| [AllOsint](https://github.com/i12gocaj/allosint-tfm) | MSc thesis: local OSINT investigation from an email address or phone number, with reproducible reports. |
+| [Atlas](https://github.com/i12gocaj/Atlas) | Local-first auditor for AI copilot usage: cost, adoption, sensitive data and policy compliance. Atmira × OpenAI × Big Data Hackathon 2026. |
+| [Club Gym Sierra time bypass](https://github.com/i12gocaj/club-gym-sierra-time-bypass) | Logic flaw in a mobile app that allowed booking classes early by changing the device clock. Patched in v4.4.19. |
 
-## 🎓 Current Training
+### Recognition
 
-**VIII Diploma of Expert in Reverse Engineering and Malware Intelligence** — University of Málaga, NICS Lab, and Google-VirusTotal (in collaboration with Google). Scheduled for **21 Sep–14 Dec 2026** · 18 ECTS · 180 in-person hours. [Official programme](https://www.nics.uma.es/viii-edicion-diploma-experto-en-ingenieria-inversa-e-inteligencia-malware/).
+- **NASA Vulnerability Disclosure Program**, letter of recognition for responsible disclosure (2026)
+- **Spanish National Police**, recommendation letter for cybercrime analysis work
+- **Caliphal Hounds**, CTF team ranked #2 in Spain on CTFtime (2024)
+- **Hackademics Forum III CTF**, 1st prize (2025)
+- **El Bug de la Semana** (INCIBE × IMMUNE), week 4 winner (2025)
 
----
+### Education
 
-## 🚀 Featured Work
+- MSc in Offensive Security, Campus Internacional de Ciberseguridad
+- VIII Expert Diploma in Reverse Engineering and Malware Intelligence, University of Málaga, NICS Lab and Google VirusTotal (2026)
+- BSc in Computer Engineering, University of Córdoba
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🎙️ [**Instagram Notes Audio Leakage**](https://github.com/i12gocaj/Instagram-Notes-Audio-Leakage-via-URL-Extraction-Fixed) | Privacy bypass in Instagram Web. **$1,000 Meta Bug Bounty.** Validated and patched. | Web Security · Responsible Disclosure |
-| 🔐 [**Instagram Password Change Bypass**](https://github.com/i12gocaj/instagram-password-bypass) | Account-takeover via password change without knowing the current one. Reported to Meta. | Web Security · Bug Bounty |
-| 📧 [**SecEmail**](https://github.com/i12gocaj/SecEmail) | SPF/DKIM/DMARC/ARC auditor and authorised SMTP/phishing simulator for Red Team engagements. ~5k LOC, 167 tests. | Python · Email Security · Red Team |
-| 🧭 [**Atlas — Copilot Auditor**](https://github.com/i12gocaj/Atlas) | Local-first AI governance prototype auditing copilot telemetry for cost, adoption, sensitive data and policy compliance; presented at the 2026 Atmira × OpenAI × Big Data Hackathon. | Python · AI Governance · Local LLM |
-| 🏋️ [**Club Gym Sierra Time Bypass**](https://github.com/i12gocaj/club-gym-sierra-time-bypass) | Logical vulnerability in mobile app, patched in v4.4.19. | Mobile Security · Logical Vulns |
-| 📈 [**TFG: Directional Prediction of Financial Assets with ML**](https://github.com/i12gocaj/tfg-prediccion-direccional-activos-financieros) | BSc Thesis. ML/DL pipeline + GDELT news-sentiment for BTC/TSLA/NVDA. **Graded 10/10.** | Python · TensorFlow · scikit-learn · XGBoost |
+### Tools I use day to day
 
----
+Ghidra, x64dbg, YARA, Volatility, Autopsy, FTK Imager, Wireshark, MITRE ATT&CK, VirusTotal, Burp Suite, Nmap, Python.
 
-## 🛠️ Toolkit
-
-### 🔴 Offensive Security
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=101010)](https://www.kali.org/)
-[![Parrot OS](https://img.shields.io/badge/Parrot_OS-15ABDD?style=for-the-badge&logo=parrotsecurity&logoColor=white&labelColor=101010)](https://www.parrotsec.org/)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=101010)](https://portswigger.net/burp)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2F4A9C?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=101010)](https://www.metasploit.com/)
-[![Nmap](https://img.shields.io/badge/Nmap-447265?style=for-the-badge&logo=nmap&logoColor=white&labelColor=101010)](https://nmap.org/)
-[![Nessus](https://img.shields.io/badge/Nessus-00A4B7?style=for-the-badge&logo=tenable&logoColor=white&labelColor=101010)](https://www.tenable.com/products/nessus)
-[![BloodHound](https://img.shields.io/badge/BloodHound-E2291B?style=for-the-badge&labelColor=101010&color=E2291B)](https://github.com/SpecterOps/BloodHound)
-[![Impacket](https://img.shields.io/badge/Impacket-00A3E0?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/fortra/impacket)
-[![NetExec](https://img.shields.io/badge/NetExec-363636?style=for-the-badge&labelColor=101010)](https://github.com/Pennyw0rth/NetExec)
-[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&labelColor=101010)](https://hashcat.net/hashcat/)
-[![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://sqlmap.org/)
-[![pwntools](https://img.shields.io/badge/pwntools-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/Gallopsled/pwntools)
-
-### 🧪 Reverse Engineering & Malware Analysis
-[![Ghidra](https://img.shields.io/badge/Ghidra-B0292E?style=for-the-badge&labelColor=101010)](https://ghidra-sre.org/)
-[![IDA Free](https://img.shields.io/badge/IDA_Free-1E3A8A?style=for-the-badge&labelColor=101010)](https://hex-rays.com/ida-free)
-[![x64dbg](https://img.shields.io/badge/x64dbg-2E2E2E?style=for-the-badge&labelColor=101010)](https://x64dbg.com/)
-[![YARA](https://img.shields.io/badge/YARA-005571?style=for-the-badge&labelColor=101010)](https://virustotal.github.io/yara/)
-[![Android APK](https://img.shields.io/badge/Android_APK_Analysis-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://developer.android.com/)
-
-### 🔍 Digital Forensics & DFIR
-[![FTK Imager](https://img.shields.io/badge/FTK_Imager-002B5B?style=for-the-badge&labelColor=101010)](https://www.exterro.com/digital-forensics-software/ftk-imager)
-[![Autopsy](https://img.shields.io/badge/Autopsy-1F4E79?style=for-the-badge&labelColor=101010)](https://www.autopsy.com/)
-[![Volatility](https://img.shields.io/badge/Volatility-8B0000?style=for-the-badge&labelColor=101010)](https://www.volatilityfoundation.org/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=101010)](https://www.wireshark.org/)
-[![Nirsoft](https://img.shields.io/badge/Nirsoft-4A4A4A?style=for-the-badge&labelColor=101010)](https://www.nirsoft.net/)
-[![Proxmark3](https://img.shields.io/badge/Proxmark3-FF4500?style=for-the-badge&labelColor=101010)](https://github.com/RfidResearchGroup/proxmark3)
-
-### 🌐 Threat Intelligence & OSINT
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-BB1F23?style=for-the-badge&labelColor=101010)](https://attack.mitre.org/)
-[![Maltego](https://img.shields.io/badge/Maltego-1B1B1B?style=for-the-badge&labelColor=101010)](https://www.maltego.com/)
-[![Shodan](https://img.shields.io/badge/Shodan-C00?style=for-the-badge&logo=shodan&logoColor=white&labelColor=101010)](https://www.shodan.io/)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&labelColor=101010)](https://www.virustotal.com/)
-
-### 🤖 AI & Machine Learning
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)](https://pytorch.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&labelColor=101010)](https://xgboost.ai/)
-
-### ☁️ Infrastructure & Automation
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com/)
-[![Hyper-V](https://img.shields.io/badge/Microsoft_Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/)
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=101010)](https://n8n.io/)
-
----
-
-## 🏆 CTF & Practice Platforms
-
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=101010)](https://www.hackthebox.com/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=101010)](https://tryhackme.com/)
-[![CTFtime](https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logoColor=white&labelColor=101010)](https://ctftime.org/)
-
-🐺 **Caliphal Hounds (2024)** - team **ranked #2 in Spain** on CTFTime that year.
-
----
-
-## 🏅 Awards & Recognition
-
-- **NASA Vulnerability Disclosure Program Recognition** (Jun 2026) — Letter of Recognition from NASA's Office of the CIO (SAISO) for responsible vulnerability disclosure.
-- **Best Device Award**, 4th Biotechnological Hackathon (Apr 2026) — intelligent counting device for post-surgery surgical material.
-- **1st Prize**, Hackademics Forum III CTF (Apr 2025).
-- **Week 4 Winner**, “El Bug de la Semana” (INCIBE × IMMUNE, 2025).
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i12gocaj&theme=dark&hide_border=true" alt="Streak Stats" />
-</p>
-
----
-
-## ⚠️ Disclaimer
-
-All code, exploits and write-ups in this profile are published **strictly for educational and research purposes**. Use them responsibly and only against systems you own or have explicit authorization to test. Unauthorized access to computer systems is illegal in most jurisdictions.
+<sub>Exploits and write-ups here are published for research and education. Use them only on systems you own or are authorised to test.</sub>

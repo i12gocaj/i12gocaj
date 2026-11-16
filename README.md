@@ -24,6 +24,7 @@ Looking for junior roles in **threat intelligence and malware analysis**.
 - **NASA Vulnerability Disclosure Program**, letter of recognition for responsible disclosure (2026)
 - **Spanish National Police**, recommendation letter for cybercrime analysis work
 - **Caliphal Hounds**, CTF team ranked #2 in Spain on CTFtime (2024)
+- **Talent4Cyber**, semifinalist, 8th nationally out of 100+ teams (MCCE & INCIBE, 2025)
 - **Hackademics Forum III CTF**, 1st prize (2025)
 - **El Bug de la Semana** (INCIBE × IMMUNE), week 4 winner (2025)
 
@@ -31,10 +32,11 @@ Looking for junior roles in **threat intelligence and malware analysis**.
 
 - MSc in Offensive Security, Campus Internacional de Ciberseguridad
 - VIII Expert Diploma in Reverse Engineering and Malware Intelligence, University of Málaga, NICS Lab and Google VirusTotal (2026)
-- BSc in Computer Engineering, University of Córdoba
+- BSc in Computer Engineering, University of Córdoba (thesis graded 10/10)
+- OSCP, in preparation
 
 ### Tools I use day to day
 
-Ghidra, x64dbg, YARA, Volatility, Autopsy, FTK Imager, Wireshark, MITRE ATT&CK, VirusTotal, Burp Suite, Nmap, Python.
+IDA Pro, Ghidra, YARA, Volatility, Autopsy, FTK Imager, Wireshark, MITRE ATT&CK, VirusTotal, Burp Suite, Nmap, Python.
 
 <sub>Exploits and write-ups here are published for research and education. Use them only on systems you own or are authorised to test.</sub>

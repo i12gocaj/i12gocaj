@@ -6,7 +6,7 @@ Computer Engineer with an MSc in Offensive Security. I analyse malware (ransomwa
 
 Looking for junior roles in **threat intelligence and malware analysis**.
 
-[Portfolio](https:javiergc.es) · [LinkedIn](https://www.linkedin.com/in/javier-gonzalez-casares/) · [Email](mailto:javiergc100@protonmail.com)
+[Portfolio](https://www.javiergc.es) · [LinkedIn](https://www.linkedin.com/in/javier-gonzalez-casares/) · [Email](mailto:javiergc100@protonmail.com)
 
 ### Featured work
 
